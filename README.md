@@ -5,4 +5,4 @@ This app was mainly created to understand and get a sense of iOS Development. He
 
 use the file manager, 
 save data using UserDefaults and JSONDecoder/JSONEncoder,
-manipulate main.storyboard to create connections between interface builder and my personal code.
+and manipulate main.storyboard to create connections between interface builder and the code itself.
