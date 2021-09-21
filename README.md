@@ -1,5 +1,5 @@
 # Weather-Viewer
-A simple app that displays a table view of a few images of various storms created using Swift and XCode.
+A simple app that displays a table view of a few images of various storms
 
 This app was mainly created to understand and get a sense of iOS Development. Here, I learned how to 
 
